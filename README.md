@@ -5,7 +5,7 @@ This is a simple web application created with JavaScript. You can put in a URL o
 
 Thanks to @davidshimjs for the QR Code Libary I used for this web application.
 
-More features will be available in the futere!
+More features will be available in the future!
 
 ### [QR-Simply](https://qr-simply.com)
 
